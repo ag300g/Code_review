@@ -7,3 +7,6 @@
 *.DS_Store
 .Rproj.user
 *.sql
+.DS_Store
+.idea/
+.Rhistory
